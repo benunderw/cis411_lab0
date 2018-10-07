@@ -6,7 +6,7 @@ GitHub: [benunderw](https://github.com/benunderw)<br/>
 
 # Step 1: Fork this repository
 - Forked repository URL: https://github.com/benunderw/cis411_lab0
-- The accompanying diagram of what my fork precisely and conceptually represents
+- ![Diagram](https://lh3.googleusercontent.com/hoo8O6Sd0agv12Ildmh1dNkBqZAbpMfrIytSgcm_foIMfwfzQZ1PVNGvY0SWJ1on_Ue9XRQreDXK0vI1q7WczrlUhv-RXFTRV1GIxk657arBF5Y_FnSBePZAT_9V5DTVv2R_DYbe8uYgywMXbPkhvRX4s-jam12kE0h2Rqy-Z28v6Q2ZECVCqG-C9pTYW8Kx0w150h5rgz58xJTvk_udU2bT0gk7oEXCrd3fi0dESwol49-W8gFZjmzr98m3faUTnkWOLG08Z9GbgBUGQmtAy3I3VLgjmO7-Aagl-Jk0-EA92v_4zznPCraZ1qOOstfs8LllnbRcMP2XWy-glyZWS0Mx_MSccbZqTxP6Z1aNCkoMwZCJg7gAipUrsr2TNWg7Fb6pKiDHQfRlZqVwjwt8R6tE74MKvDb5chKegKG_3-_lMWYWZ2V3BSeloGdF-rUirZ3ptgxhfh-3Gc9pHb0e7xe2Ba59KR8Yxq4qFbvy2P3LP_4jokZodgmnPvzT0JeDw6FVg2BSBMbFKQ3HCaVUEdrYCqmS18OBOhFHF2kFgZNw624WC1CtbMOJCuFzI8GEZ-fuf4_9xJBDKhRjV1PCKuPf8lvr3fy3iGE550XZPH3oLPT_Tnetq9p1V3C5ck3S=w930-h697-no)
 
 # Step 2: Clone your forked repository from the command line
 - My GraphQL response from adding myself as an account on the test project
